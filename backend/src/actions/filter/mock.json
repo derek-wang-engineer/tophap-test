@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"bedsCount\": 2, \"bathsDecimal\": 2}"
+}

@@ -1,0 +1,2264 @@
+[
+  {
+    "id": "24956517",
+    "media": {
+      "count": 40,
+      "photos": [
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40907369/0/0/0/e68f8b0053a056e93becd04e99cd36ff/93/e9b5c6eb19a96d7f701163fde0563000/40907369.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40907369/1/0/0/71164d32fb70664830a733bfb3d1ecc8/93/e9b5c6eb19a96d7f701163fde0563000/40907369-1.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40907369/2/0/0/43fcfe9dd76982f0b37d786784b12e67/93/e9b5c6eb19a96d7f701163fde0563000/40907369-2.JPG"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94579-2252",
+      "StreetDirPrefix": null,
+      "StreetName": "WICKS BLVD",
+      "FullAddress": "15699 WICKS BLVD SAN LEANDRO CA 94579",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Alameda",
+      "PostalCode": "94579",
+      "StreetNumber": "15699",
+      "City": "SAN LEANDRO",
+      "UnitNumber": null,
+      "UnparsedAddress": "15699 WICKS BLVD"
+    },
+    "topZone": {
+      "name": "BAY ELEMENTARY SCHOOL",
+      "id": "000617392394",
+      "type": "school"
+    },
+    "TransactionDate": "2020-08-10T08:00:00Z",
+    "ListDate": "2020-06-05T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2020-07-13T08:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 699900,
+    "ListAmountPerSqft": 466.6,
+    "Price": 699900,
+    "PricePerSqft": 466.6,
+    "BedsCount": 3,
+    "BathsDecimal": 2,
+    "LivingSqft": 1500,
+    "LotAcres": 0.1498,
+    "ParkingCount": 2,
+    "YearBuilt": 1958,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 859810,
+      "ppsqft": 573.2065,
+      "rentEstimate": 3171,
+      "rentPpsqft": 2.1141,
+      "rentYieldEstimate": 5.31,
+      "date": "2021-05-18"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "Beautiful home in quiet area. Has some updating and ready for your touch to make it home. Large lot. Nice size bedrooms. Separate living and family rooms. Custom wood beams and ceiling in family room with wood burning stove.  Living room has a fireplace. Beautiful floors and updated kitchen with granite.  Great backyard with covered patio and built in BBQ. Lots of outdoor storage. Accessory Dwelling Unit(In-law) is permissible per city planning, buyer to verify restrictions and details.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01262532",
+        "MemberFullName": "Patrick Payan",
+        "MemberFirstName": "Patrick Aaron",
+        "MemberKey": "94804",
+        "MemberLastName": "Payan",
+        "OfficeName": "American Residential Realty"
+      },
+      "Buyer": {
+        "MemberStateLicense": "01865958",
+        "MemberFullName": "Marco Wan",
+        "MemberFirstName": "Marco K",
+        "MemberKey": "105962",
+        "MemberLastName": "Wan",
+        "OfficeName": "Compass"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "15699 Wicks Blvd",
+    "displayRegion": "San Leandro, CA 94579",
+    "location": [-122.15466, 37.67569],
+    "mls": "beaor",
+    "DOM": 0
+  },
+  {
+    "id": "157292541",
+    "media": {
+      "count": 15,
+      "photos": [
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40613340/0/0/0/e9a630319e2a892ed4fb0eae6da017b4/22/b1c612cebb39b9d2fd00cfe76633c452/40613340.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40613340/1/0/0/01869de336725bee88a0c95608846eda/22/b1c612cebb39b9d2fd00cfe76633c452/40613340-1.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40613340/2/0/0/df0bf9f0684d72dcb40fc03e12b73172/22/b1c612cebb39b9d2fd00cfe76633c452/40613340-2.JPG"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94556",
+      "StreetDirPrefix": null,
+      "StreetName": "CAMINO PABLO",
+      "FullAddress": "1211 CAMINO PABLO MORAGA CA 94556",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Contra Costa",
+      "PostalCode": "94556",
+      "StreetNumber": "1211",
+      "City": "MORAGA",
+      "UnitNumber": null,
+      "UnparsedAddress": "1211 CAMINO PABLO"
+    },
+    "topZone": {
+      "name": "CAMINO PABLO ELEMENTARY",
+      "id": "000617448647",
+      "type": "school"
+    },
+    "TransactionDate": "2021-07-01T08:00:00Z",
+    "ListDate": "2013-05-03T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2013-10-23T08:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 1700000,
+    "ListAmountPerSqft": null,
+    "Price": 1700000,
+    "PricePerSqft": null,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 25,
+    "ParkingCount": 0,
+    "YearBuilt": null,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "Land",
+    "estimates": {
+      "estimate": 846420,
+      "ppsqft": 570.3641,
+      "rentEstimate": 3870,
+      "rentPpsqft": 2.6076,
+      "rentYieldEstimate": 5.36,
+      "date": "2021-05-21"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "Easy access off Camino Pablo to develop. Utilities in street.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "00553003",
+        "MemberFullName": "Mark S Solomon",
+        "MemberFirstName": "Mark Stephen",
+        "MemberKey": "15439",
+        "MemberLastName": "Solomon",
+        "OfficeName": "Compass"
+      },
+      "Buyer": {
+        "MemberStateLicense": "01879433",
+        "MemberFullName": "David Corry",
+        "MemberFirstName": "David Ash",
+        "MemberKey": "120318",
+        "MemberLastName": "Corry",
+        "OfficeName": "Powerhouse Realty"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "1211 Camino Pablo",
+    "displayRegion": "Moraga, CA 94556",
+    "location": [-122.11447, 37.8142],
+    "mls": "beaor",
+    "DOM": 174
+  },
+  {
+    "id": "40521407",
+    "media": {
+      "count": 10,
+      "photos": [
+        "http://media.crmls.org/medias/f705f48d-edd8-42fe-8ec8-e2c742b65182.jpg",
+        "http://media.crmls.org/medias/51c97a53-3387-4510-b292-888a6f477f4f.jpg",
+        "http://media.crmls.org/medias/d50d46e1-d248-44b5-8406-55f7fceb63e0.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94401-3327",
+      "StreetDirPrefix": "S",
+      "StreetName": "ELDORADO ST",
+      "FullAddress": "223 S ELDORADO ST SAN MATEO CA 94401",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94401",
+      "StreetNumber": "223",
+      "City": "SAN MATEO",
+      "UnitNumber": null,
+      "UnparsedAddress": "223 S ELDORADO ST"
+    },
+    "topZone": {
+      "name": "North Central",
+      "id": "000722298818",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2013-12-30T00:00:00Z",
+    "ListDate": "2013-12-30T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2015-01-24T02:11:36Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 500000,
+    "ListAmountPerSqft": 434,
+    "Price": 500000,
+    "PricePerSqft": 434,
+    "BedsCount": 2,
+    "BathsDecimal": 1,
+    "LivingSqft": 1150,
+    "LotAcres": 0.11708070000000001,
+    "ParkingCount": 2,
+    "YearBuilt": 1920,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 1157662,
+      "ppsqft": 1006.6626,
+      "rentEstimate": 3378,
+      "rentPpsqft": 2.9374,
+      "rentYieldEstimate": 3.55,
+      "date": "2021-05-25"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "2 bed 1 bath home in San Mateo.  Fixer Upper, to be sold AS IS.",
+    "Agents": {
+      "List": {
+        "MemberFullName": "Maria Manzo",
+        "OfficeName": "Century 21 Realty Alliance"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "223 S Eldorado St",
+    "displayRegion": "San Mateo, CA 94401",
+    "location": [-122.31931, 37.56805],
+    "mls": "crmls",
+    "DOM": 391
+  },
+  {
+    "id": "4913226",
+    "media": {
+      "count": 1,
+      "photos": [
+        "http://media.crmls.org/medias/22797749-4cfd-44f9-a356-6d7e1a450aa6.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94044-2016",
+      "StreetDirPrefix": null,
+      "StreetName": "MONTEREY RD",
+      "FullAddress": "550 MONTEREY RD PACIFICA CA 94044",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94044",
+      "StreetNumber": "550",
+      "City": "PACIFICA",
+      "UnitNumber": null,
+      "UnparsedAddress": "550 MONTEREY RD"
+    },
+    "topZone": {
+      "name": "Pacific View",
+      "id": "000722290696",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2015-01-05T00:00:00Z",
+    "ListDate": "2015-01-05T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2015-01-24T06:53:49Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 789000,
+    "ListAmountPerSqft": 509,
+    "Price": 789000,
+    "PricePerSqft": 509,
+    "BedsCount": 3,
+    "BathsDecimal": 2.5,
+    "LivingSqft": 1550,
+    "LotAcres": 0.08,
+    "ParkingCount": 4,
+    "YearBuilt": 1999,
+    "RentFlag": false,
+    "permitsCount": 2,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 1253522,
+      "ppsqft": 808.7238,
+      "rentEstimate": 3778,
+      "rentPpsqft": 2.4371,
+      "rentYieldEstimate": 3.77,
+      "date": "2021-05-19"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "3 bedroom, 2.5 bath contemporary home with ocean view s. Built in 1998, there\\'s a 2 car garage with int. access and a charging station for your electric vehicle. Main level has a modern, open floor plan, eat in kitchen, newer appliances and combined dining area/living rooms, guest bath. Features: vaulted ceilings, dbl-pane windows, gas burning fireplace, tile floors main level, mfg. wood floors lower and washer/dryer closet. This property IS in an HOA, Pacifica Ocean View Association, monthly HOA fees: $67",
+    "Agents": {
+      "List": {
+        "MemberFullName": "Mark McHale",
+        "OfficeName": "Vanguard Properties : 1 - VANG"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "550 Monterey Rd",
+    "displayRegion": "Pacifica, CA 94044",
+    "location": [-122.47835, 37.64684],
+    "mls": "crmls",
+    "DOM": 2334
+  },
+  {
+    "id": "26352682",
+    "media": {
+      "count": 1,
+      "photos": [
+        "http://media.crmls.org/mediaz/12D6123B-34DE-4116-BCEC-A7997A13C277.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94080-4625",
+      "StreetDirPrefix": null,
+      "StreetName": "BADEN AVE",
+      "FullAddress": "434 BADEN AVE SOUTH SAN FRANCISCO CA 94080",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94080",
+      "StreetNumber": "434",
+      "City": "SOUTH SAN FRANCISCO",
+      "UnitNumber": null,
+      "UnparsedAddress": "434 BADEN AVE"
+    },
+    "topZone": {
+      "name": "SPRUCE ELEMENTARY SCHOOL",
+      "id": "000617392181",
+      "type": "school"
+    },
+    "TransactionDate": "2015-02-02T03:23:08Z",
+    "ListDate": "2014-10-22T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2015-02-02T03:23:08Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 459000,
+    "ListAmountPerSqft": 433,
+    "Price": 459000,
+    "PricePerSqft": 433,
+    "BedsCount": 2,
+    "BathsDecimal": 1,
+    "LivingSqft": 1060,
+    "LotAcres": 0.08,
+    "ParkingCount": 4,
+    "YearBuilt": 1914,
+    "RentFlag": false,
+    "permitsCount": 2,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 901088,
+      "ppsqft": 850.0831,
+      "rentEstimate": 3721,
+      "rentPpsqft": 3.51,
+      "rentYieldEstimate": 5.12,
+      "date": "2021-05-25"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "",
+    "Agents": {
+      "List": {
+        "MemberFullName": "Hector Orozco",
+        "OfficeName": "Climb Real Estate"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "434 Baden Ave",
+    "displayRegion": "South San Francisco, CA 94080",
+    "location": [-122.4142, 37.6553],
+    "mls": "crmls",
+    "DOM": 104
+  },
+  {
+    "id": "156059136",
+    "media": {
+      "count": 16,
+      "photos": [
+        "http://media.crmls.org/mediaz/B91EA581-3107-4FE0-B2F1-3089A87BA75A.jpg",
+        "http://media.crmls.org/mediaz/B714A4B6-9997-4D6C-B2F8-59802D2B0136.jpg",
+        "http://media.crmls.org/mediaz/7CD42770-01A5-46C4-920E-FA181C0606E9.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94065-5141",
+      "StreetDirPrefix": null,
+      "StreetName": "PELICAN LN",
+      "FullAddress": "79 PELICAN LN REDWOOD CITY CA 94065",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94065",
+      "StreetNumber": "79",
+      "City": "REDWOOD CITY",
+      "UnitNumber": null,
+      "UnparsedAddress": "79 PELICAN LN"
+    },
+    "topZone": {
+      "name": "Pelican Cove",
+      "id": "000711002021",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2015-09-08T01:00:37Z",
+    "ListDate": "2015-03-05T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2015-09-22T15:33:17Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 689900,
+    "ListAmountPerSqft": 687,
+    "Price": 689900,
+    "PricePerSqft": 687,
+    "BedsCount": 2,
+    "BathsDecimal": 2,
+    "LivingSqft": 1003,
+    "LotAcres": 9.226,
+    "ParkingCount": 1,
+    "YearBuilt": 1985,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "Condo",
+    "estimates": {
+      "estimate": 1024527,
+      "ppsqft": 1021.4622,
+      "rentEstimate": 3511,
+      "rentPpsqft": 3.5006,
+      "rentYieldEstimate": 4.38,
+      "date": "2021-05-25"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "Tranquil redwood shores condo overlooking Belmont Chanel await you in this stunning remodeled home! Features include: 2 bedrooms with master suite; remodeled kitchen with quartz counter-tops and custom backsplash; recessed lighting in kitchen with new light fixtures throughout;  private deck overlooking the water and many more. Convenient mid peninsula location, excellent schools, with access to boating, fishing, and walking trails along the water.",
+    "Agents": {
+      "List": {
+        "MemberFullName": "Polly Watts",
+        "OfficeName": "Maxim Properties"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "79 Pelican Ln",
+    "displayRegion": "Redwood City, CA 94065",
+    "location": [-122.25585, 37.53118],
+    "mls": "crmls",
+    "DOM": 202
+  },
+  {
+    "id": "51305639",
+    "media": {
+      "count": 44,
+      "photos": [
+        "http://media.crmls.org/medias/0e448842-1ae3-4586-a1ee-14f107915948.jpg",
+        "http://media.crmls.org/medias/5868c99e-41ae-4170-a7c2-1a907f5744e8.jpg",
+        "http://media.crmls.org/medias/181c04ea-016a-4271-b076-efcf72d29060.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94044-1903",
+      "StreetDirPrefix": null,
+      "StreetName": "CRAGMONT CT",
+      "FullAddress": "22 CRAGMONT CT PACIFICA CA 94044",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94044",
+      "StreetNumber": "22",
+      "City": "PACIFICA",
+      "UnitNumber": null,
+      "UnparsedAddress": "22 CRAGMONT CT"
+    },
+    "topZone": {
+      "name": "Pacific Manor",
+      "id": "000722351677",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2015-08-01T01:01:52Z",
+    "ListDate": "2015-03-05T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2015-09-22T15:46:48Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 699000,
+    "ListAmountPerSqft": 539,
+    "Price": 699000,
+    "PricePerSqft": 539,
+    "BedsCount": 2,
+    "BathsDecimal": 2,
+    "LivingSqft": 1295,
+    "LotAcres": 0.1612,
+    "ParkingCount": 3,
+    "YearBuilt": 1951,
+    "RentFlag": false,
+    "permitsCount": 1,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 964897,
+      "ppsqft": 745.0943,
+      "rentEstimate": 4025,
+      "rentPpsqft": 3.1085,
+      "rentYieldEstimate": 5.32,
+      "date": "2021-05-22"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "Best lot on the Street, GREAT views of the Pacific Ocean. Kitchen has been updated, state of the art appliances; granite counter tops, tile flooring - a culinary dream!  Minutes to San Francisco; Located near Skyline Blvd/280. Beach minutes away.  Hiking and Biking trails located near-by. Hot Tub (covered patio); Balcony-Deck with views; Remolded Yard with custom-stone Fireplace/BBQ (its like an outdoor living room!).  This home has all the comforts and amenities needed; great home for entertaining.",
+    "Agents": {
+      "List": {
+        "MemberFullName": "Gabriel Raddavero",
+        "OfficeName": "DaVero Properties"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "22 Cragmont Ct",
+    "displayRegion": "Pacifica, CA 94044",
+    "location": [-122.48414, 37.64674],
+    "mls": "crmls",
+    "DOM": 202
+  },
+  {
+    "id": "155926883",
+    "media": {
+      "count": 20,
+      "photos": [
+        "http://media.crmls.org/medias/7f57ccd1-dc28-449f-9651-e3abd1ae3432.jpg",
+        "http://media.crmls.org/medias/e1ad6f4e-c07e-4217-8c32-a05397aa7e8f.jpg",
+        "http://media.crmls.org/medias/c5e55f93-251c-41c4-b9a7-e313975e9b7b.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94015-2026",
+      "StreetDirPrefix": null,
+      "StreetName": "SWEETWOOD DR",
+      "FullAddress": "1307 SWEETWOOD DR DALY CITY CA 94015",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94015",
+      "StreetNumber": "1307",
+      "City": "DALY CITY",
+      "UnitNumber": null,
+      "UnparsedAddress": "1307 SWEETWOOD DR"
+    },
+    "topZone": {
+      "name": "Broadmoor",
+      "id": "00040608338",
+      "type": "city"
+    },
+    "TransactionDate": "2015-07-01T01:03:49Z",
+    "ListDate": "2015-09-22T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2015-09-22T16:08:45Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 679000,
+    "ListAmountPerSqft": 595,
+    "Price": 679000,
+    "PricePerSqft": 595,
+    "BedsCount": 3,
+    "BathsDecimal": 1,
+    "LivingSqft": 1140,
+    "LotAcres": 0.1439,
+    "ParkingCount": 3,
+    "YearBuilt": 1946,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 960333,
+      "ppsqft": 842.3975,
+      "rentEstimate": 3610,
+      "rentPpsqft": 3.1666,
+      "rentYieldEstimate": 4.68,
+      "date": "2021-05-25"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Well maintained Broadmoor Village Home! Fully detached home w/ surrounded by trees, grass/flowers (w/ a small vegetable grdn). Lovingly restored home on an extra large lot will be perfect for gatherings for family/ friends. Walk out to a lovely patio, landscaped yard with matured trees & built-in BBQ grill area. Designer paint colors, beaut\\'l HDWD flrs through-out. Remodl\\'d kitchen & double paned windows. Located in the unique neighborhood of Broadmoor Village. Near 101/280 freeways.",
+    "Agents": {
+      "List": {
+        "MemberFullName": "Connie Lee",
+        "OfficeName": "Coldwell Banker Res. R.E. Svcs"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "1307 Sweetwood Dr",
+    "displayRegion": "Daly City, CA 94015",
+    "location": [-122.47562, 37.69074],
+    "mls": "crmls",
+    "DOM": 2074
+  },
+  {
+    "id": "2667323",
+    "media": {
+      "count": 4,
+      "photos": [
+        "http://media.crmls.org/mediaz/A7762674-0129-433E-84A2-E0449000D64E.jpg",
+        "http://media.crmls.org/mediaz/0D0D6E8C-C30B-4056-8E38-5884C4240EEA.jpg",
+        "http://media.crmls.org/mediaz/CC6C41A3-F60F-44E3-B55B-50BBA8EDBF26.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94015-4711",
+      "StreetDirPrefix": null,
+      "StreetName": "BELCREST AVE",
+      "FullAddress": "142 BELCREST AVE DALY CITY CA 94015",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94015",
+      "StreetNumber": "142",
+      "City": "DALY CITY",
+      "UnitNumber": null,
+      "UnparsedAddress": "142 BELCREST AVE"
+    },
+    "topZone": {
+      "name": "FRANKLIN D. ROOSEVELT K - 8",
+      "id": "000617387362",
+      "type": "school"
+    },
+    "TransactionDate": "2017-05-08T20:15:03Z",
+    "ListDate": "2014-11-07T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2017-05-08T20:15:03Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 698000,
+    "ListAmountPerSqft": 6523,
+    "Price": 698000,
+    "PricePerSqft": 6523,
+    "BedsCount": 3,
+    "BathsDecimal": 1,
+    "LivingSqft": 107,
+    "LotAcres": 0.07,
+    "ParkingCount": 6,
+    "YearBuilt": 1960,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 1127255,
+      "ppsqft": 10535.0935,
+      "rentEstimate": 764,
+      "rentPpsqft": 7.1362,
+      "rentYieldEstimate": 0.86,
+      "date": "2021-05-17"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "This immaculate completely remodeled home is ready for a new family. The space is warm and inviting. Pride of ownership radiates as show in in the quality detailed remodel from top to bottom. Also the garage has a huge basement for lots of storage. Neighborhoods: Westlake Equipment:  Range/Oven Other Fees: 0 Sewer:  Sewer Available Topography: GSL Guest House Est. SQFT: 0",
+    "Agents": {
+      "List": {
+        "MemberFullName": "Michael Craig",
+        "OfficeName": "Michael Craig, Broker"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "142 Belcrest Ave",
+    "displayRegion": "Daly City, CA 94015",
+    "location": [-122.49084, 37.66466],
+    "mls": "crmls",
+    "DOM": 914
+  },
+  {
+    "id": "19651407",
+    "media": {
+      "count": 15,
+      "photos": [
+        "https://mediall.rapmls.com/norcalmls/listingpics/bigphoto/2017/07/05/1d3c7602-64f4-4f1e-b65c-fe7f4d0e7542.jpg",
+        "https://mediall.rapmls.com/norcalmls/listingpics/bigphoto/2017/07/05/455edd06-b98c-4936-ba16-35570c8cc9b2.jpg",
+        "https://mediall.rapmls.com/norcalmls/listingpics/bigphoto/2017/06/30/916969cb-d9a6-4191-a19e-6ffdef5147c8.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94603-1217",
+      "StreetDirPrefix": null,
+      "StreetName": "92ND AVE",
+      "FullAddress": "951 92ND AVE OAKLAND CA 94603",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Alameda",
+      "PostalCode": "94603",
+      "StreetNumber": "951",
+      "City": "OAKLAND",
+      "UnitNumber": null,
+      "UnparsedAddress": "951 92ND AVE"
+    },
+    "topZone": {
+      "name": "Highland",
+      "id": "000710818397",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2017-09-29T08:00:00Z",
+    "ListDate": "2017-09-29T08:00:00Z",
+    "TophapStatusChangeTimestamp": "2017-09-29T08:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 354888,
+    "ListAmountPerSqft": 341.23846153846154,
+    "Price": 354888,
+    "PricePerSqft": 341.23846153846154,
+    "BedsCount": 2,
+    "BathsDecimal": 1,
+    "LivingSqft": 1040,
+    "LotAcres": 0.1001,
+    "ParkingCount": 1,
+    "YearBuilt": 1939,
+    "RentFlag": false,
+    "permitsCount": 3,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 495918,
+      "ppsqft": 476.8444,
+      "rentEstimate": 2793,
+      "rentPpsqft": 2.6853,
+      "rentYieldEstimate": 7.91,
+      "date": "2021-05-21"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01836755",
+        "MemberFullName": "Delfina Cisneros",
+        "MemberFirstName": "Delfina",
+        "MemberKey": "163360",
+        "MemberLastName": "Cisneros",
+        "OfficeName": "RE/MAX Gold Natomas"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "951 92Nd Ave",
+    "displayRegion": "Oakland, CA 94603",
+    "location": [-122.18062, 37.74553],
+    "mls": "metro",
+    "DOM": 1
+  },
+  {
+    "id": "52416823",
+    "media": {
+      "count": 0,
+      "photos": []
+    },
+    "address": {
+      "PostalCodeFull": "94402-1524",
+      "StreetDirPrefix": "W",
+      "StreetName": "3RD AVE",
+      "FullAddress": "236 W 3RD AVE SAN MATEO CA 94402",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94402",
+      "StreetNumber": "236",
+      "City": "SAN MATEO",
+      "UnitNumber": null,
+      "UnparsedAddress": "236 W 3RD AVE"
+    },
+    "topZone": {
+      "name": "Baywood",
+      "id": "000710851898",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2018-02-09T00:00:00Z",
+    "ListDate": "2018-02-09T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2018-02-09T09:06:44Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 2175000,
+    "ListAmountPerSqft": 258.93,
+    "Price": 2175000,
+    "PricePerSqft": 258.93,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 0.1928,
+    "ParkingCount": 0,
+    "YearBuilt": null,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "Land",
+    "StandardStatus": "Active",
+    "PublicRemarks": "",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "00484002",
+        "MemberFullName": "Maryellen Curtis",
+        "MemberFirstName": "Mary Ellen",
+        "MemberKey": "10464533",
+        "MemberLastName": "Curtis",
+        "OfficeName": "Alain Pinel Realtors"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "PriceChangeTimestamp": "2018-02-09T09:06:44Z",
+    "displayAddress": "236 W 3Rd Ave",
+    "displayRegion": "San Mateo, CA 94402",
+    "location": [-122.330324, 37.559856],
+    "mls": "crmls",
+    "DOM": 1203
+  },
+  {
+    "id": "52084475",
+    "media": {
+      "count": 4,
+      "photos": [
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2018/08/15/d330b52d-2c8e-458b-8196-368d5be43a68.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2018/08/15/30729d68-c499-4e35-a6c1-b9e105d602b5.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2018/08/15/9ff22426-4c0c-4b0b-a7ec-5f366b5f466a.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94619-3410",
+      "StreetDirPrefix": null,
+      "StreetName": "MACARTHUR BLVD",
+      "FullAddress": "5091 MACARTHUR BLVD OAKLAND CA 94619",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Alameda",
+      "PostalCode": "94619",
+      "StreetNumber": "5091",
+      "City": "OAKLAND",
+      "UnitNumber": null,
+      "UnparsedAddress": "5091 MACARTHUR BLVD"
+    },
+    "topZone": {
+      "name": "Melrose Acres",
+      "id": "000711278272",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2020-08-10T00:00:00Z",
+    "ListDate": "2018-08-15T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2018-08-15T08:00:00Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 900000,
+    "ListAmountPerSqft": null,
+    "Price": 900000,
+    "PricePerSqft": null,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 0.64,
+    "ParkingCount": 0,
+    "YearBuilt": null,
+    "RentFlag": false,
+    "permitsCount": 4,
+    "PropertyUse": "Land",
+    "estimates": {
+      "estimate": 0,
+      "ppsqft": 0,
+      "rentEstimate": 0,
+      "rentPpsqft": 0,
+      "rentYieldEstimate": 0,
+      "date": "2020-07-27"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Mills Grove is a fantastic opportunity in the Maxwell Park Neighborhood of Oakland. Approximately 27,726 of combined lot square feet across the street from Mills College. Seller has applied for approval for 18 units. Property is located near the I-580 Freeway, giving great access to the rest of the Bay Area.This vacant lot is being sold as part of a package listing along with parcel #\\'s 036-2503-009,036-2503-010, 036-2503-011, 036-2503-012",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "00656579",
+        "MemberFullName": "Daniel McGue",
+        "MemberFirstName": "Daniel Kent",
+        "MemberKey": "800963",
+        "MemberLastName": "Mc Gue",
+        "OfficeName": "Coldwell Banker Commercial Realty"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "PriceChangeTimestamp": "2020-01-10T12:05:04Z",
+    "displayAddress": "5091 Macarthur Blvd",
+    "displayRegion": "Oakland, CA 94619",
+    "location": [-122.18776, 37.78149],
+    "mls": "sfar",
+    "DOM": 1016
+  },
+  {
+    "id": "29393709",
+    "media": {
+      "count": 36,
+      "photos": [
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40836046/0/0/0/faaf339cb43ae90bfe3921465310ee8c/68/51a3eebb67ebd17a311e322cfb032b66/40836046.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40836046/1/0/0/f26b96f6801600a68fb92a32d8f0fd94/68/51a3eebb67ebd17a311e322cfb032b66/40836046-1.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40836046/2/0/0/ffa8992e38d9d737a556626546d459c5/68/51a3eebb67ebd17a311e322cfb032b66/40836046-2.JPG"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94621-2200",
+      "StreetDirPrefix": null,
+      "StreetName": "83RD AVE",
+      "FullAddress": "2040 83RD AVE OAKLAND CA 94621",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Alameda",
+      "PostalCode": "94621",
+      "StreetNumber": "2040",
+      "City": "OAKLAND",
+      "UnitNumber": null,
+      "UnparsedAddress": "2040 83RD AVE"
+    },
+    "topZone": {
+      "name": "Moss",
+      "id": "000722425014",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2018-09-04T00:00:00Z",
+    "ListDate": "2018-08-27T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2018-09-05T00:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 499950,
+    "ListAmountPerSqft": 174,
+    "Price": 499950,
+    "PricePerSqft": 174,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 0.14,
+    "ParkingCount": 1,
+    "YearBuilt": 1923,
+    "RentFlag": false,
+    "permitsCount": 3,
+    "PropertyUse": "Multi-family",
+    "estimates": {
+      "estimate": 912151,
+      "ppsqft": 317.6013,
+      "rentEstimate": 5603,
+      "rentPpsqft": 1.951,
+      "rentYieldEstimate": 7.67,
+      "date": "2021-05-24"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "Beautiful bones, up and coming location, lots and lots of potential. Spacious units, Extra unit in the back. Large lovely lot with mature landscaping.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01852412",
+        "MemberFullName": "Ruty Magidish",
+        "MemberFirstName": "Ruty",
+        "MemberKey": "106800",
+        "MemberLastName": "Magidish",
+        "OfficeName": "CRH Group Inc."
+      },
+      "Buyer": {
+        "MemberStateLicense": "01852412",
+        "MemberFullName": "Ruty Magidish",
+        "MemberFirstName": "Ruty",
+        "MemberKey": "106800",
+        "MemberLastName": "Magidish",
+        "OfficeName": "CRH Group Inc."
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "2040 83Rd Ave",
+    "displayRegion": "Oakland, CA 94621",
+    "location": [-122.17067, 37.75854],
+    "mls": "beaor",
+    "DOM": 10
+  },
+  {
+    "id": "16937181",
+    "media": {
+      "count": 22,
+      "photos": [
+        "https://mediall.rapmls.com/sfarmls/listingpics/bigphoto/2020/02/24/6e40f042-7a8c-4b30-97cc-c8870532a5d9.jpg",
+        "https://mediall.rapmls.com/sfarmls/listingpics/bigphoto/2020/02/24/7a6829a9-a507-4185-9484-7b2dadb54f3a.jpg",
+        "https://mediall.rapmls.com/sfarmls/listingpics/bigphoto/2020/02/24/34fd87b4-3498-4dd1-98f6-e01655729e4a.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94103-3745",
+      "StreetDirPrefix": null,
+      "StreetName": "FOLSOM ST",
+      "FullAddress": "1468 FOLSOM ST SAN FRANCISCO CA 94103",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Francisco",
+      "PostalCode": "94103",
+      "StreetNumber": "1468",
+      "City": "SAN FRANCISCO",
+      "UnitNumber": null,
+      "UnparsedAddress": "1468 FOLSOM ST"
+    },
+    "topZone": {
+      "name": "94103",
+      "id": "000394103",
+      "type": "zip"
+    },
+    "TransactionDate": "2021-12-30T08:00:00Z",
+    "ListDate": "2018-09-24T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2018-09-24T08:00:00Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 3300000,
+    "ListAmountPerSqft": 328.8490284005979,
+    "Price": 3300000,
+    "PricePerSqft": 328.8490284005979,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 10035,
+    "LotAcres": 0.1105,
+    "ParkingCount": 0,
+    "YearBuilt": 1908,
+    "RentFlag": false,
+    "permitsCount": 15,
+    "PropertyUse": "Multi-family",
+    "estimates": {
+      "estimate": 5882882,
+      "ppsqft": 586.2363,
+      "rentEstimate": 0,
+      "rentPpsqft": 0,
+      "rentYieldEstimate": 0,
+      "date": "2020-07-26"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Great price! 12 unit apartment building in desirable part of SOMA.   This building retains much of its original character and details. All units are 2 BR 1 BA with separate meters. located near Rainbow grocery, Costco, Foodco & Best Buy and for those whom must commute Muni, Bart & freeways. Soft story completed  This is not about Rent Roll or PNL We are selling  a very good building consisting of twelve 2 bedrooms one bath units. For Investor\\'s who want to get their project management team ability to realize the potential upside.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01007853",
+        "MemberFullName": "Jorge R Franco",
+        "MemberFirstName": "Jorge Romero",
+        "MemberKey": "277136",
+        "MemberLastName": "Franco",
+        "OfficeName": "Franco Real Estate Group"
+      }
+    },
+    "PreviousListPriceDiff": -700000,
+    "PriceChangeTimestamp": "2021-02-16T23:37:07.700Z",
+    "displayAddress": "1468 Folsom St",
+    "displayRegion": "San Francisco, CA 94103",
+    "location": [-122.4139, 37.77238],
+    "mls": "sfar",
+    "DOM": 976
+  },
+  {
+    "id": "150648110",
+    "media": {
+      "count": 13,
+      "photos": [
+        "http://media.crmls.org/mediaz/9CFD1321-5FB2-4888-A191-B1426D9299D5.jpg",
+        "http://media.crmls.org/mediaz/588CC5CB-74B9-4551-81FC-4E5C7B98063F.jpg",
+        "http://media.crmls.org/mediaz/EC98CE49-DAD9-4108-BA1E-D36B1561FB2B.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94062-2317",
+      "StreetDirPrefix": null,
+      "StreetName": "HARCROSS RD",
+      "FullAddress": "235 HARCROSS RD WOODSIDE CA 94062",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94062",
+      "StreetNumber": "235",
+      "City": "WOODSIDE",
+      "UnitNumber": null,
+      "UnparsedAddress": "235 HARCROSS RD"
+    },
+    "topZone": {
+      "name": "Woodside Hills",
+      "id": "000710819951",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2019-02-01T00:00:00Z",
+    "ListDate": "2019-02-01T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-02-02T05:40:41Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 3500000,
+    "ListAmountPerSqft": 66.54,
+    "Price": 3500000,
+    "PricePerSqft": 66.54,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 1.2,
+    "ParkingCount": 0,
+    "YearBuilt": null,
+    "RentFlag": false,
+    "permitsCount": 5,
+    "PropertyUse": "Land",
+    "estimates": {
+      "estimate": 3310118,
+      "ppsqft": 1504.599,
+      "rentEstimate": 5943,
+      "rentPpsqft": 2.7015,
+      "rentYieldEstimate": 2.06,
+      "date": "2021-05-18"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Rare and Stunning Property w/ Approved Site and Plans! Ready to build your dream home or remodel existing residence.  Proposed new residence with one story living space,basement, and two car garage. Complete stamped and approved plans for a 6,682 sq.ft. sustainable residence, fresh from the \\'Town of Woodside\\'!  5 minute drive to/from 280 yet feels hours away. Peaceful and serene, this property is nestled in a beautiful park-like setting. In addition, the privacy is almost unprecedented, being far above the road with access from two separate tree-lined driveways! A rare opportunity to transform the existing structure into an almost 4,000 square foot, upscale, stunningly beautiful, brand-new masterpiece-estate which would include an almost 1,000 square foot, private \"get away master-retreat\" boasting an abundance of natural light, overlooking the beauty, grace and splendor of this incredibly special Woodside setting!",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01343305",
+        "MemberFullName": "Dana Cappiello",
+        "MemberFirstName": "Dana Roberta",
+        "MemberKey": "96905623",
+        "MemberLastName": "Cappiello",
+        "OfficeName": "Sothebys Intl Rlty"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "PriceChangeTimestamp": "2019-02-02T05:40:41Z",
+    "displayAddress": "235 Harcross Rd",
+    "displayRegion": "Woodside, CA 94062",
+    "location": [-122.24353, 37.45148],
+    "mls": "crmls",
+    "DOM": 846
+  },
+  {
+    "id": "140546270",
+    "media": {
+      "count": 2,
+      "photos": [
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40861203/0/0/0/eae38934c44535e2448da5a22adbc7b2/81/350f9835706653089dd77460d43dcba4/40861203.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40861203/1/0/0/b9c72741a0981ece92d0c29e14c70f97/81/350f9835706653089dd77460d43dcba4/40861203-1.JPG"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94601-3018",
+      "StreetDirPrefix": null,
+      "StreetName": "33RD AVE",
+      "FullAddress": "1656 33RD AVE OAKLAND CA 94601",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Alameda",
+      "PostalCode": "94601",
+      "StreetNumber": "1656",
+      "City": "OAKLAND",
+      "UnitNumber": null,
+      "UnparsedAddress": "1656 33RD AVE"
+    },
+    "topZone": {
+      "name": "St. Elizabeth",
+      "id": "000722434098",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2019-04-15T00:00:00Z",
+    "ListDate": "2019-04-15T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-04-22T07:00:00Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 699950,
+    "ListAmountPerSqft": null,
+    "Price": 699950,
+    "PricePerSqft": null,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 0.05,
+    "ParkingCount": 1,
+    "YearBuilt": 1926,
+    "RentFlag": false,
+    "permitsCount": 2,
+    "PropertyUse": "Multi-family",
+    "estimates": {
+      "estimate": 827980,
+      "ppsqft": 331.7226,
+      "rentEstimate": 5920,
+      "rentPpsqft": 2.3717,
+      "rentYieldEstimate": 8.87,
+      "date": "2021-05-19"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Corner building in desirable Fruitvale neighborhood. Long term tenants. Property is being sold AS-IS. Long term owner, intends to do 1031 exchange. Please DO NOT disturb tenants, drive by only.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "00968189",
+        "MemberFullName": "Sohini Deo",
+        "MemberFirstName": "Sohini Lata",
+        "MemberKey": "19258",
+        "MemberLastName": "Deo",
+        "OfficeName": "Global Real Estate"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "1656 33Rd Ave",
+    "displayRegion": "Oakland, CA 94601",
+    "location": [-122.22289, 37.78092],
+    "mls": "beaor",
+    "DOM": 773
+  },
+  {
+    "id": "155969193",
+    "media": {
+      "count": 65,
+      "photos": [
+        "http://media.crmls.org/mediaz/81BA5138-0543-402F-8371-50FFB8B86E20.jpg",
+        "http://media.crmls.org/mediaz/DB16A77A-F2AE-4653-8531-0B551C19DECF.jpg",
+        "http://media.crmls.org/mediaz/5C3017ED-7462-4DBA-819C-C4B6098D1724.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94010-5131",
+      "StreetDirPrefix": null,
+      "StreetName": "OCCIDENTAL AVE",
+      "FullAddress": "300 OCCIDENTAL AVE BURLINGAME CA 94010",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94010",
+      "StreetNumber": "300",
+      "City": "BURLINGAME",
+      "UnitNumber": null,
+      "UnparsedAddress": "300 OCCIDENTAL AVE"
+    },
+    "topZone": {
+      "name": "Burlingame Park",
+      "id": "000710818588",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2019-05-03T00:00:00Z",
+    "ListDate": "2019-05-03T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-05-03T09:57:30Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 7869000,
+    "ListAmountPerSqft": 1077.95,
+    "Price": 7869000,
+    "PricePerSqft": 1077.95,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 0.27204045,
+    "ParkingCount": 8,
+    "YearBuilt": 1924,
+    "RentFlag": false,
+    "permitsCount": 1,
+    "PropertyUse": "Other",
+    "estimates": {
+      "estimate": 7299483,
+      "ppsqft": 1091.1035,
+      "rentEstimate": 12920,
+      "rentPpsqft": 1.9313,
+      "rentYieldEstimate": 1.89,
+      "date": "2021-05-25"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Located in the heart of downtown Burlingame, this incredibly rare 8 unit property is unlike any other in San Mateo County. Built in 1924, the sunlit, architectural gem comes with two grand ground floor Owner type units: 1 approx 1,540 sqft  two-bedroom 2  bths & a spacious approx 1,295 sqft one bedroom both featuring a fireplace, formal dining rm, inlaid hrdwd flrs, & one with stylish patio & other with 2 deck area. Structure warms with classic traditional detail. The remaining six 1-bdrms all boast formal feel with lrg rms, inlaid hrdwd flrs with the two top flr roof top units offering views over the tree tops to dwntwn, lush parks and beyond. Secured with a stately entry, the approximate 7,300 + sq. ft structure beams with classic details and character and beautifully matured landscaped. Gated and secured 8 carport area with a bonus office space area is a nice plus!  1blk from dn twn Burlingame walk to restaurants, retail, grocery stores, cafes, public library, & Caltrain & more!",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "00673914",
+        "MemberFullName": "Wayne Gomes",
+        "MemberFirstName": "Wayne Edward",
+        "MemberKey": "10494553",
+        "MemberLastName": "Gomes",
+        "OfficeName": "Coldwell Banker"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "300 Occidental Ave",
+    "displayRegion": "Burlingame, CA 94010",
+    "location": [-122.35058, 37.5743],
+    "mls": "crmls",
+    "DOM": 755
+  },
+  {
+    "id": "156969948",
+    "media": {
+      "count": 18,
+      "photos": [
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/09/20/f454c298-19d7-4ffa-a843-e8cfc58b5fb1.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/09/23/7553ad85-92a7-450d-8db5-6113ab171480.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/11/21/f79478db-14cc-474f-a6c4-faa5e36c02a9.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94109-2844",
+      "StreetDirPrefix": null,
+      "StreetName": "WASHINGTON ST",
+      "FullAddress": "2000 WASHINGTON ST # 7 SAN FRANCISCO CA 94109",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Francisco",
+      "PostalCode": "94109",
+      "StreetNumber": "2000",
+      "City": "SAN FRANCISCO",
+      "UnitNumber": "# 7",
+      "UnparsedAddress": "2000 WASHINGTON ST # 7"
+    },
+    "topZone": {
+      "name": "2006 Washington",
+      "id": "000722432980",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2021-06-30T07:00:00Z",
+    "ListDate": "2019-09-23T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-09-23T08:00:00Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 25000000,
+    "ListAmountPerSqft": null,
+    "Price": 25000000,
+    "PricePerSqft": null,
+    "BedsCount": 4,
+    "BathsDecimal": 4,
+    "LivingSqft": 0,
+    "LotAcres": 0,
+    "ParkingCount": 3,
+    "YearBuilt": 1922,
+    "RentFlag": false,
+    "permitsCount": 7,
+    "PropertyUse": "Condo",
+    "estimates": {
+      "estimate": 11677569,
+      "ppsqft": 2178.6509,
+      "rentEstimate": 6478,
+      "rentPpsqft": 4.7318,
+      "rentYieldEstimate": 2.75,
+      "date": "2021-05-23"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "This 2 level beautifully renovated Penthouse at the esteemed 2000 Washington Street showcases sweeping views from the Golden Gate Bridge to Russian Hill. Sophistication is found at every moment, from the prominent entry hall with sweeping stair and fireplace, to the nearly 50\\' long grand gallery framing Bay views. The large public rooms with panoramic views set the tone for entertaining. An upper level library/media room opens to a full-width rooftop terrace with spectacular views of the GGB & Alcatraz.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "00511339",
+        "MemberFullName": "Malin Giddings",
+        "MemberFirstName": "Malin Anna Birgitta",
+        "MemberKey": "187232",
+        "MemberLastName": "Giddings",
+        "OfficeName": "Compass"
+      },
+      "CoList": {
+        "MemberStateLicense": "01052285",
+        "MemberFullName": "Neal A Ward",
+        "MemberFirstName": "Neal Allen",
+        "MemberKey": "308772",
+        "MemberLastName": "Ward",
+        "OfficeName": "Compass"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "2000 Washington St # 7",
+    "displayRegion": "San Francisco, CA 94109",
+    "location": [-122.42668, 37.79284],
+    "mls": "sfar",
+    "DOM": 612
+  },
+  {
+    "id": "8680004",
+    "media": {
+      "count": 68,
+      "photos": [
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/08/10/c8c7b2b9-521b-428e-ad5f-4bf10b93a996.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/08/14/3d039ccc-9096-44a2-9ebb-7085af773b6c.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/08/14/2fa73ca6-b8a5-4b53-b013-932cccd1121d.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94121-1017",
+      "StreetDirPrefix": null,
+      "StreetName": "EL CAMINO DEL MAR",
+      "FullAddress": "865 EL CAMINO DEL MAR SAN FRANCISCO CA 94121",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Francisco",
+      "PostalCode": "94121",
+      "StreetNumber": "865",
+      "City": "SAN FRANCISCO",
+      "UnitNumber": null,
+      "UnparsedAddress": "865 EL CAMINO DEL MAR"
+    },
+    "topZone": {
+      "name": "Sea Cliff",
+      "id": "000722337008",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2019-08-10T00:00:00Z",
+    "ListDate": "2019-08-10T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-10-03T00:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 30000,
+    "ListAmountPerSqft": 0,
+    "Price": 30000,
+    "PricePerSqft": 0,
+    "BedsCount": 4,
+    "BathsDecimal": 4.5,
+    "LivingSqft": 0,
+    "LotAcres": 0.06,
+    "ParkingCount": 1,
+    "YearBuilt": 1962,
+    "RentFlag": false,
+    "permitsCount": 38,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 4610538,
+      "ppsqft": 1848.6518,
+      "rentEstimate": 5730,
+      "rentPpsqft": 4.1853,
+      "rentYieldEstimate": 2.54,
+      "date": "2021-05-24"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "This one-of-a-kind, four-level home offers STUNNING unobstructed views of the Golden Gate Bridge & the Marin Headlands. This masterpiece is the product of nine years resourcing only the highest quality materials; double-paned mullioned windows & marble from Italy, stair treads & hand rails meticulously wrapped in hand-stitched polished leather, floor-to-ceiling doors wrapped in beautiful soft suede. The open kitchen is highlighted by incredibly unique custom cabinetry which is enveloped in non-directional stainless steel paired with a massive warm Polished Moroccan Tadelakt plaster island, making this the quintessential entertaining space. Plaster walls & ceilings are found on every level of the home including the Screening Room / Workout Room / Garage. A warm full-scale radiant heating system is enjoyed on each four flrs.  Fully detached on a corner lot and located in the most coveted part of the Sea Cliff neighborhood.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01850093",
+        "MemberFullName": "Stephanie LeBeau",
+        "MemberFirstName": "Stephanie M",
+        "MemberKey": "1030624",
+        "MemberLastName": "Gallegos-Lebeau",
+        "OfficeName": "Vanguard Properties"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "865 El Camino Del Mar",
+    "displayRegion": "San Francisco, CA 94121",
+    "location": [-122.49295, 37.78647],
+    "mls": "sfar",
+    "DOM": 55
+  },
+  {
+    "id": "40511847",
+    "media": {
+      "count": 32,
+      "photos": [
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/09/30/0e5c20ff-b95c-4e52-b25c-823fed4d95b5.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/09/30/0560a2a7-cd58-4c15-86ea-63577ccd15a6.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/09/30/bc1c5069-e685-4b7e-8416-9f738f4f5a8b.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94103-2040",
+      "StreetDirPrefix": null,
+      "StreetName": "MARKET ST",
+      "FullAddress": "765 MARKET ST # 34A SAN FRANCISCO CA 94103",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Francisco",
+      "PostalCode": "94103",
+      "StreetNumber": "765",
+      "City": "SAN FRANCISCO",
+      "UnitNumber": "APT 34A",
+      "UnparsedAddress": "765 MARKET ST # 34A"
+    },
+    "topZone": {
+      "name": "Four Seasons",
+      "id": "000722362959",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2021-06-30T07:00:00Z",
+    "ListDate": "2019-10-04T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-10-04T08:00:00Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 9900000,
+    "ListAmountPerSqft": 2175.8241758241757,
+    "Price": 9900000,
+    "PricePerSqft": 2175.8241758241757,
+    "BedsCount": 4,
+    "BathsDecimal": 4.5,
+    "LivingSqft": 4550,
+    "LotAcres": 0,
+    "ParkingCount": 2,
+    "YearBuilt": 0,
+    "RentFlag": false,
+    "permitsCount": 3,
+    "PropertyUse": "Condo",
+    "estimates": {
+      "estimate": 5034536,
+      "ppsqft": 1106.4914,
+      "rentEstimate": 21256,
+      "rentPpsqft": 4.6717,
+      "rentYieldEstimate": 2.83,
+      "date": "2021-05-21"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Commandingly sited high in the iconic Four Seasons Hotel, this 4BD, 4,550sf major view condominium boasts a large living room, open kitchen & family room, paneled office & view dining room. Oversized windows on three sides deliver captivating views of the sunrise over the San Francisco Bay, the dynamic Downtown skyline & sunset views toward City Hall & Twin Peaks. Extensively renovated under the leadership of designer Jacques Saint Dizier & Muratore Construction, the substantial layout & elegantly proportioned rooms enable daily living & sophisticated entertaining. Whole-house infrastructure incl. advanced Lutron lighting & shading and media/entertainment systems. Larger than most single-family homes, Four Seasons #34A is the largest constructed condominium available for sale downtown. Five-Star Four Seasons Hotel & Residences amenities incl. concierge & doorman, 24/7 in-room dining, housekeeping, spa, two restaurants, security, business center & onsite 127,000sf fitness center.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01467774",
+        "MemberFullName": "Gregg Lynn",
+        "MemberFirstName": "Gregory Scott",
+        "MemberKey": "166014390",
+        "MemberLastName": "Lynn",
+        "OfficeName": "Sotheby\\'s International Realty"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "PriceChangeTimestamp": "2020-02-08T13:45:16Z",
+    "displayAddress": "765 Market St #Apt 34A",
+    "displayRegion": "San Francisco, CA 94103",
+    "location": [-122.4043, 37.78621],
+    "mls": "sfar",
+    "DOM": 601
+  },
+  {
+    "id": "30507996",
+    "media": {
+      "count": 28,
+      "photos": [
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40880306/0/0/0/0f78a392982b1f7c2aee5db027a9649e/81/0f249f256863c16642d3288a7b5e79d0/40880306.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40880306/1/0/0/b4addc0e1a514fb0885bdaf5eee68b11/81/0f249f256863c16642d3288a7b5e79d0/40880306-1.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40880306/2/0/0/5b63b1580b8963c59be8c5cbb21233da/81/0f249f256863c16642d3288a7b5e79d0/40880306-2.JPG"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94603-4024",
+      "StreetDirPrefix": null,
+      "StreetName": "BANCROFT AVE",
+      "FullAddress": "10915 BANCROFT AVE OAKLAND CA 94603",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Alameda",
+      "PostalCode": "94603",
+      "StreetNumber": "10915",
+      "City": "OAKLAND",
+      "UnitNumber": null,
+      "UnparsedAddress": "10915 BANCROFT AVE"
+    },
+    "topZone": {
+      "name": "Durant Manor",
+      "id": "000710818049",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2019-10-17T00:00:00Z",
+    "ListDate": "2019-08-31T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-10-14T00:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 900888,
+    "ListAmountPerSqft": 227,
+    "Price": 900888,
+    "PricePerSqft": 227,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 0.17,
+    "ParkingCount": 1,
+    "YearBuilt": 1941,
+    "RentFlag": false,
+    "permitsCount": 10,
+    "PropertyUse": "Multi-family",
+    "estimates": {
+      "estimate": 1282748,
+      "ppsqft": 322.7038,
+      "rentEstimate": 6518,
+      "rentPpsqft": 1.6398,
+      "rentYieldEstimate": 6.36,
+      "date": "2021-05-25"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "GREAT LOCATION FOR THIS 4 PLEX, 2 BLOCKS FROM OAKLAND /SAN LEANDRO BORDER, AND 580 FREEWAY. MAIN HOUSE IS 4 BEDROOMS & 2 BATHS .SPACIOUS AND CLEAN. ALL OTHER UNITS ARE 1 BEDROOM & 1 BATH. BACK YARD HAS A HUGE 15 x 14 STORAGE UNIT. THIS IS A CLEAN & SOBER TRANSITIONAL LIVING PROPERTY. CURRENTLY 11 BEDS IN MAIN HOUSE AT $700 PER BED PLUS 3 ONE BEDROOM UNITS , 2 AT $1855 1 AT $1725 OFFERS SUBJECT TO INSPECTION DO NOT GO ONTO THE PROPERTY OR SPEAK WITH THE RESIDENTS",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "00703561",
+        "MemberFullName": "Ruben Baldivid",
+        "MemberFirstName": "Ruben Contreras",
+        "MemberKey": "18964",
+        "MemberLastName": "Baldivid",
+        "OfficeName": "Ruben Baldivid, RE Broker"
+      },
+      "Buyer": {
+        "MemberStateLicense": "00703561",
+        "MemberFullName": "Ruben Baldivid",
+        "MemberFirstName": "Ruben Contreras",
+        "MemberKey": "18964",
+        "MemberLastName": "Baldivid",
+        "OfficeName": "Ruben Baldivid, RE Broker"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "10915 Bancroft Ave",
+    "displayRegion": "Oakland, CA 94603",
+    "location": [-122.15567, 37.73938],
+    "mls": "beaor",
+    "DOM": 45
+  },
+  {
+    "id": "157565300",
+    "media": {
+      "count": 2,
+      "photos": [
+        "http://media.crmls.org/mediaz/28296E4F-61D2-4DD6-98CC-BAE52615083C.jpg",
+        "http://media.crmls.org/mediaz/53EEDB24-89F3-4109-A093-E10382ABC325.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94301-3211",
+      "StreetDirPrefix": null,
+      "StreetName": "BYRON ST",
+      "FullAddress": "1125 BYRON ST PALO ALTO CA 94301",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Santa Clara",
+      "PostalCode": "94301",
+      "StreetNumber": "1125",
+      "City": "PALO ALTO",
+      "UnitNumber": null,
+      "UnparsedAddress": "1125 BYRON ST"
+    },
+    "topZone": {
+      "name": "University South",
+      "id": "000710819297",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2019-08-09T00:00:00Z",
+    "ListDate": "2019-08-09T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-10-18T13:24:26Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 2249000,
+    "ListAmountPerSqft": 3346.7261904761904,
+    "Price": 2249000,
+    "PricePerSqft": 3346.7261904761904,
+    "BedsCount": 1,
+    "BathsDecimal": 1,
+    "LivingSqft": 672,
+    "LotAcres": 0.09,
+    "ParkingCount": 1,
+    "YearBuilt": 1905,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 2559837,
+      "ppsqft": 3809.281,
+      "rentEstimate": 3433,
+      "rentPpsqft": 5.109,
+      "rentYieldEstimate": 1.61,
+      "date": "2020-08-16"
+    },
+    "StandardStatus": "Contingent",
+    "PublicRemarks": "Bring your contractor, tools, dreams and imagination.  This \"Professorville\" house was built in 1901 and per the City of Palo Alto is a Category 4 on the Historic Buildings Inventory.  With this excellent location and access to top Palo Alto Schools and just a half block to Addison Elementary, and a short distance to Greene Middle School and Palo Alto HS, it just might be that gem you and your contractor are looking for.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01190465",
+        "MemberFullName": "Michael Pierce",
+        "MemberFirstName": "Michael Don",
+        "MemberKey": "10479741",
+        "MemberLastName": "Pierce",
+        "OfficeName": "Prodesse Property Group"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "1125 Byron St",
+    "displayRegion": "Palo Alto, CA 94301",
+    "location": [-122.14926, 37.44527],
+    "mls": "crmls",
+    "DOM": 657
+  },
+  {
+    "id": "158603163",
+    "media": {
+      "count": 31,
+      "photos": [
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/10/17/9d05bcbf-6d4d-4573-8a4b-e30ac63a8d93.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/10/17/b9c1143c-933b-4bf3-8b77-fed8f5259602.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/10/17/a0303d72-6119-40c2-bdde-f5a107e3a635.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94109-1207",
+      "StreetDirPrefix": null,
+      "StreetName": "CHESTNUT ST",
+      "FullAddress": "1080 CHESTNUT ST SAN FRANCISCO CA 94109",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Francisco",
+      "PostalCode": "94109",
+      "StreetNumber": "1080",
+      "City": "SAN FRANCISCO",
+      "UnitNumber": null,
+      "UnparsedAddress": "1080 CHESTNUT ST"
+    },
+    "topZone": {
+      "name": "1080 Chestnut",
+      "id": "000722420681",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2021-12-31T07:00:00Z",
+    "ListDate": "2019-10-19T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-10-19T08:00:00Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 19000000,
+    "ListAmountPerSqft": 3489.439853076217,
+    "Price": 19000000,
+    "PricePerSqft": 3489.439853076217,
+    "BedsCount": 4,
+    "BathsDecimal": 5.5,
+    "LivingSqft": 5445,
+    "LotAcres": 0,
+    "ParkingCount": 3,
+    "YearBuilt": 1962,
+    "RentFlag": false,
+    "permitsCount": 130,
+    "PropertyUse": "Condo",
+    "estimates": {
+      "estimate": 7927504,
+      "ppsqft": 1455.9236,
+      "rentEstimate": 23323,
+      "rentPpsqft": 4.2834,
+      "rentYieldEstimate": 2.15,
+      "date": "2021-05-19"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "One of San Francisco\\'s leading view homes, the 5,445sf Penthouse at 1080 Chestnut reveals a timeless floor plan of soaring ceilings, grand entertaining rooms & oversized windows exposing never-before-seen views of famous landmarks in all directions. Wide corridors open to a remarkable 19-ft high glass oculus. The living & dining rooms span 62-feet overlooking the Golden Gate Bridge, Alcatraz & beyond, whereas family room & outdoor loggia view majestic Coit Tower, Bay Bridge & Downtown. The considerable kitchen features center island & banquette. Four en-suite view bedrooms & solarium frame the southern wing, including a marvelous master with fireplace & dual baths. Private amenities include six large outdoor terraces, eight skylights & a keyed/secure elevator opening to the full floor. Sited on one of Russian Hill\\'s most desirable flat blocks above Francisco Park, boutique 1080 Chestnut offers around-the-clock door-staff & a live-in manager to deliver exceptional, full-service living.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01467774",
+        "MemberFullName": "Gregg Lynn",
+        "MemberFirstName": "Gregory Scott",
+        "MemberKey": "166014390",
+        "MemberLastName": "Lynn",
+        "OfficeName": "Sotheby\\'s International Realty"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "PriceChangeTimestamp": "2020-01-17T10:58:11Z",
+    "displayAddress": "1080 Chestnut St",
+    "displayRegion": "San Francisco, CA 94109",
+    "location": [-122.42108, 37.80305],
+    "mls": "sfar",
+    "DOM": 586
+  },
+  {
+    "id": "3937842",
+    "media": {
+      "count": 36,
+      "photos": [
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40844936/0/0/0/85e45b6b1ea55e22d8f90ad84ced1ae1/69/56d3dbca09bce1e84baedf3df2624591/40844936.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40844936/1/0/0/ed20942f234b429b4fa8cdea493d66a7/69/56d3dbca09bce1e84baedf3df2624591/40844936-1.JPG",
+        "//cdnparap30.paragonrels.com/ParagonImages/Property/P3/MAXEBRDI/40844936/2/0/0/dfa8319fb275ce93313d058f8a1b1b53/69/56d3dbca09bce1e84baedf3df2624591/40844936-2.JPG"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94545-4218",
+      "StreetDirPrefix": null,
+      "StreetName": "DRACENA ST",
+      "FullAddress": "2255 DRACENA ST HAYWARD CA 94545",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Alameda",
+      "PostalCode": "94545",
+      "StreetNumber": "2255",
+      "City": "HAYWARD",
+      "UnitNumber": null,
+      "UnparsedAddress": "2255 DRACENA ST"
+    },
+    "topZone": {
+      "name": "SOUTHGATE ELEMENTARY SCHOOL",
+      "id": "000617388453",
+      "type": "school"
+    },
+    "TransactionDate": "2019-01-06T00:00:00Z",
+    "ListDate": "2018-11-02T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-11-04T00:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 1149999,
+    "ListAmountPerSqft": 463,
+    "Price": 1149999,
+    "PricePerSqft": 463,
+    "BedsCount": 6,
+    "BathsDecimal": 5,
+    "LivingSqft": 2482,
+    "LotAcres": 0.18,
+    "ParkingCount": 2,
+    "YearBuilt": 1957,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 1199664,
+      "ppsqft": 483.3458,
+      "rentEstimate": 3180,
+      "rentPpsqft": 1.2812,
+      "rentYieldEstimate": 4.15,
+      "date": "2021-05-23"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "House: 4 Bed, 3 Bath, Laundry Room, Garage, Pantry, 3 Walk in Closets. One Office built in filing cabinet, Vanity with granite counter top in Master Bedroom, Tile flooring in the living area, dining area, and kitchen, Recessed Lighting. All of the interior doors are glass with a privacy coating with hardwood frames. 36 Inch Mahogany glass double doors with inlaid lead design. Cedar tongue-and-groove ceiling kitchen and living room. Granite counter tops, Large fireplace, Skylight in kitchen, Front driveways are coated with a Granite Grip textured coating.  Attached One bed Studio (364 sf) - private entrance, sky light in shower, kitchenette, recessed lighting, Tile floors, Sliding door to fenced patio  Detached One bed Studio - private entrance, Granite floors, bathroom, full bath, walk-in shower, kitchenette with granite counter tops recessed lighting, covered patio & Jacuzzi",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01998576",
+        "MemberFullName": "Jitu Choudhury",
+        "MemberFirstName": "Jitu M",
+        "MemberKey": "154746",
+        "MemberLastName": "Choudhury",
+        "OfficeName": "Pacific Realty Partners"
+      },
+      "Buyer": {
+        "MemberStateLicense": "00988912",
+        "MemberFullName": "Nestor Palma",
+        "MemberFirstName": "Nestor Andres",
+        "MemberKey": "155229",
+        "MemberLastName": "Palma",
+        "OfficeName": "Alliance Bay Realty"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "2255 Dracena St",
+    "displayRegion": "Hayward, CA 94545",
+    "location": [-122.09387, 37.62879],
+    "mls": "beaor",
+    "DOM": 368
+  },
+  {
+    "id": "158145501",
+    "media": {
+      "count": 45,
+      "photos": [
+        "http://media.crmls.org/mediaz/4E5FEC68-FCC5-42E8-B4FF-25FC188675CC.jpg",
+        "http://media.crmls.org/mediaz/E6A5ACA1-C161-4603-AA2D-3CD0B9F8915A.jpg",
+        "http://media.crmls.org/mediaz/F5A4D420-1168-439C-83BE-4B0CA138D6D2.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94402-1803",
+      "StreetDirPrefix": "S",
+      "StreetName": "IDAHO ST",
+      "FullAddress": "1034 S IDAHO ST SAN MATEO CA 94402",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94402",
+      "StreetNumber": "1034",
+      "City": "SAN MATEO",
+      "UnitNumber": null,
+      "UnparsedAddress": "1034 S IDAHO ST"
+    },
+    "topZone": {
+      "name": "Sunnybrae",
+      "id": "000722349688",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2019-09-15T00:00:00Z",
+    "ListDate": "2019-09-15T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-11-17T19:44:46Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 1465000,
+    "ListAmountPerSqft": 791.89,
+    "Price": 1465000,
+    "PricePerSqft": 791.89,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 0,
+    "LotAcres": 0.1239678,
+    "ParkingCount": 4,
+    "YearBuilt": 1947,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "Other",
+    "estimates": {
+      "estimate": 1388293,
+      "ppsqft": 753.6876,
+      "rentEstimate": 3757,
+      "rentPpsqft": 2.0399,
+      "rentYieldEstimate": 3.01,
+      "date": "2021-05-24"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Idyllic Setting On A Picturesque Street.  Breathtaking Oasis With An Assortment Of Unique Flora And Fruit Trees. Pride Of Ownership Is Evident In This Gorgeous Duplex. Separate Entrances With Ornate Gates. The 2 Units Are Vacant. Eat-In Kitchens, Granite, Tiled Floors. Kitchens Have Direct Access To Large Decks Overlooking Serene Gardens. Well Appointed Bathrooms With Tubs. Open Plan Living With Cozy Fireplaces. Hardwood Floors. Washers And Dryers In Each Unit. Fresh Paint. New Carpet In The  Bedrooms. Attic Storage. Ceiling Fans. Security Cameras. Exterior Lighting. Fenced In Lot Offering Great Privacy. Bonus Structure In The Back Could Be A Office Or Artist Studio.  Wide Driveway With Stamped Concrete. Off-Street Parking. Cuts Of Stone, Colorful Plants And A Beautiful Sycamore Tree Along With A Row Of Newer Homes On This Street Create Really Nice Curb Appeal. Exterior Lighting. Separate Meters. Close To Downtown San Mateo, Caltrain, A Few Minutes To Hillsdale Mall.  Huge Potential.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01810445",
+        "MemberFullName": "Margaret Duffy",
+        "MemberFirstName": "Margaret Mary",
+        "MemberKey": "10487995",
+        "MemberLastName": "Duffy",
+        "OfficeName": "Coldwell Banker"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "PriceChangeTimestamp": "2019-09-16T06:17:41Z",
+    "displayAddress": "1034 S Idaho St",
+    "displayRegion": "San Mateo, CA 94402",
+    "location": [-122.30848, 37.56369],
+    "mls": "crmls",
+    "DOM": 620
+  },
+  {
+    "id": "51253533",
+    "media": {
+      "count": 25,
+      "photos": [
+        "https://mediarem.metrolist.net/metrolist/listingpics/bigphoto/2021/01/13/189f8d16-07e0-46f1-b070-7de5fd78e441.jpg",
+        "https://mediarem.metrolist.net/metrolist/listingpics/bigphoto/2021/01/13/de26e647-5b47-4093-bb5f-18c1d7821317.jpg",
+        "https://mediarem.metrolist.net/metrolist/listingpics/bigphoto/2021/01/13/df4b3d73-e70c-4f26-a9bd-4434b4ceec12.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94066-2627",
+      "StreetDirPrefix": null,
+      "StreetName": "FLEETWOOD DR",
+      "FullAddress": "2796 FLEETWOOD DR SAN BRUNO CA 94066",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Mateo",
+      "PostalCode": "94066",
+      "StreetNumber": "2796",
+      "City": "SAN BRUNO",
+      "UnitNumber": null,
+      "UnparsedAddress": "2796 FLEETWOOD DR"
+    },
+    "topZone": {
+      "name": "Rollingwood",
+      "id": "000710851776",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2019-11-25T08:00:00Z",
+    "ListDate": "2019-11-25T08:00:00Z",
+    "TophapStatusChangeTimestamp": "2019-11-25T08:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 1199000,
+    "ListAmountPerSqft": 560.2803738317757,
+    "Price": 1199000,
+    "PricePerSqft": 560.2803738317757,
+    "BedsCount": 5,
+    "BathsDecimal": 3,
+    "LivingSqft": 2140,
+    "LotAcres": 0.2376,
+    "ParkingCount": 2,
+    "YearBuilt": 1955,
+    "RentFlag": false,
+    "permitsCount": 5,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 1567969,
+      "ppsqft": 732.6959,
+      "rentEstimate": 5206,
+      "rentPpsqft": 2.4328,
+      "rentYieldEstimate": 4.11,
+      "date": "2021-05-22"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "This rare find is ideally located in a charming neighborhood within walking distance to Fleetwood Park and multiple schools. Featuring 5 bedrooms and 3 full bathrooms, this spacious home is complete with separate family and dining rooms, a fully fenced, low-maintenance backyard, and two-car garage parking with storage. Previously a residential care home, it has also been modified to be fully handicap accessible with ramps at both the front and rear entrances and a wheelchair accessible shower. Come see it before it is too late!",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01976427",
+        "MemberFullName": "Michael Miller",
+        "MemberFirstName": "Michael",
+        "MemberKey": "5020917",
+        "MemberLastName": "Monroe",
+        "OfficeName": "Carlile Realty & Lending"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "2796 Fleetwood Dr",
+    "displayRegion": "San Bruno, CA 94066",
+    "location": [-122.44661, 37.6261],
+    "mls": "metro",
+    "DOM": 1
+  },
+  {
+    "id": "157955741",
+    "media": {
+      "count": 11,
+      "photos": [
+        "http://media.crmls.org/mediaz/FD5F4CCE-B9C2-43DD-81C7-3C3D4E4A10B5.jpg",
+        "http://media.crmls.org/mediaz/F1FBD308-77A0-4D61-9971-3D5551DD3BC8.jpg",
+        "http://media.crmls.org/mediaz/E768083C-D3A7-4918-A4BA-0B19F3D14DC6.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94304",
+      "StreetDirPrefix": null,
+      "StreetName": "LOS TRANCOS RD",
+      "FullAddress": "610 LOS TRANCOS RD PALO ALTO CA 94304",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Santa Clara",
+      "PostalCode": "94304",
+      "StreetNumber": "610",
+      "City": "PALO ALTO",
+      "UnitNumber": null,
+      "UnparsedAddress": "610 LOS TRANCOS RD"
+    },
+    "topZone": {
+      "name": "94304",
+      "id": "000394304",
+      "type": "zip"
+    },
+    "TransactionDate": "2020-01-05T00:00:00Z",
+    "ListDate": "2020-01-05T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2020-01-06T13:25:43Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 53888000,
+    "ListAmountPerSqft": 4257.564983803429,
+    "Price": 53888000,
+    "PricePerSqft": 4257.564983803429,
+    "BedsCount": 5,
+    "BathsDecimal": 9,
+    "LivingSqft": 12657,
+    "LotAcres": 13.4,
+    "ParkingCount": 8,
+    "YearBuilt": 2008,
+    "RentFlag": false,
+    "permitsCount": 33,
+    "PropertyUse": "House",
+    "estimates": {
+      "estimate": 26832584,
+      "ppsqft": 2119.9798,
+      "rentEstimate": 0,
+      "rentPpsqft": 0,
+      "rentYieldEstimate": 0,
+      "date": "2021-05-22"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Silicon Valley Hilltop Estate. A Tech Titans Family-Inspired Domain  A rare, secluded 13+ acre view property with rolling hills overlooking San Francisco Bay and the coastal mountains with expansive country club amenities in the heart of Silicon Valley. The unrivaled state-of-the-art athletic facilities include indoor basketball court and a ice hockey pavilion, a three hole golf course with two putting greens.This estate delivers the goal of creating an exceptional home designed for todays active, modern family in the Palo Alto school district. In desirable  Portola Valley and ideally positioned next to Palo Alto only five minutes to Sand Hill Road, the financial epicenter of Silicon Valley, and less than an hour to San Francisco and San Jose.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01445386",
+        "MemberFullName": "Samira Amid-Hozour",
+        "MemberFirstName": "Samira",
+        "MemberKey": "86415348",
+        "MemberLastName": "Amid-Hozour",
+        "OfficeName": "Compass"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "displayAddress": "610 Los Trancos Rd",
+    "displayRegion": "Palo Alto, CA 94304",
+    "location": [-122.1993, 37.36835],
+    "mls": "crmls",
+    "DOM": 508
+  },
+  {
+    "id": "156158572",
+    "media": {
+      "count": 37,
+      "photos": [
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2020/09/23/1909d778-4b5f-4b54-9cf3-b4a8a004a17c.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2020/09/23/b7151619-d4b2-4269-a3ae-6e7e7f869201.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2020/09/23/f9869fd4-d73a-4016-a5aa-74224f8fdd34.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94131-3421",
+      "StreetDirPrefix": null,
+      "StreetName": "CRESTLINE DR",
+      "FullAddress": "74 CRESTLINE DR SAN FRANCISCO CA 94131",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Francisco",
+      "PostalCode": "94131",
+      "StreetNumber": "74",
+      "City": "SAN FRANCISCO",
+      "UnitNumber": null,
+      "UnparsedAddress": "74 CRESTLINE DR"
+    },
+    "topZone": {
+      "name": "Upper Market",
+      "id": "000722335810",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2021-10-31T08:00:00Z",
+    "ListDate": "2020-01-13T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2020-01-13T00:00:00Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 6995000,
+    "ListAmountPerSqft": 732.9212070410729,
+    "Price": 6995000,
+    "PricePerSqft": 732.9212070410729,
+    "BedsCount": 0,
+    "BathsDecimal": 0,
+    "LivingSqft": 9544,
+    "LotAcres": 0.2191,
+    "ParkingCount": 12,
+    "YearBuilt": 1965,
+    "RentFlag": false,
+    "permitsCount": 10,
+    "PropertyUse": "Multi-family",
+    "estimates": {
+      "estimate": 3242889,
+      "ppsqft": 339.783,
+      "rentEstimate": 9222,
+      "rentPpsqft": 0.9663,
+      "rentYieldEstimate": 2.14,
+      "date": "2021-05-25"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Another Price Reduction! Trophy Property. Highest Panoramic Views on Crestline Drive brings in the highest rents in the area Great Value-Add FOR  Rent and Other Income. Trophy Property with World Class Views on the East and Nature Reserve on the West...WITHOUT buildings to block the views.  Seeking qualified, upscale new owner with strong asset mgmt capabilities. This is a terrific property in a terrific location, close to everything, yet feels like the suburbs.   Open and desired area equates to higher rents and higher demographic profile.  Well Maintained, ready for it\\'s next owner. 1031 Exchange and Copa Compliant procedures in place.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01353690",
+        "MemberFullName": "Robyn Wonnell",
+        "MemberFirstName": "Robyn Lynn",
+        "MemberKey": "1070618",
+        "MemberLastName": "Wonnell",
+        "OfficeName": "Keller Williams Temecula Valley"
+      }
+    },
+    "PreviousListPriceDiff": -4900,
+    "PriceChangeTimestamp": "2020-09-23T23:19:41Z",
+    "displayAddress": "74 Crestline Dr",
+    "displayRegion": "San Francisco, CA 94131",
+    "location": [-122.44603, 37.75188],
+    "mls": "sfar",
+    "DOM": 500
+  },
+  {
+    "id": "51987533",
+    "media": {
+      "count": 13,
+      "photos": [
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/12/19/e6bcbfa0-afcc-4990-9f6b-2fdfea7dc2c1.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/12/19/7beaaa7e-0dfb-46a9-aab1-7fd2dafe2515.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2019/12/19/2a3aafec-5fab-4a37-910e-d902fc491d49.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94602-1460",
+      "StreetDirPrefix": null,
+      "StreetName": "HOLLYWOOD AVE",
+      "FullAddress": "1124 HOLLYWOOD AVE # 4 OAKLAND CA 94602",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "Alameda",
+      "PostalCode": "94602",
+      "StreetNumber": "1124",
+      "City": "OAKLAND",
+      "UnitNumber": "APT 4",
+      "UnparsedAddress": "1124 HOLLYWOOD AVE # 4"
+    },
+    "topZone": {
+      "name": "Indian Glen",
+      "id": "000722422666",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2020-06-18T08:00:00Z",
+    "ListDate": "2019-12-19T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2020-01-30T00:00:00Z",
+    "TophapStatus": "Pending",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 678900,
+    "ListAmountPerSqft": 576.8054375531011,
+    "Price": 678900,
+    "PricePerSqft": 576.8054375531011,
+    "BedsCount": 2,
+    "BathsDecimal": 2,
+    "LivingSqft": 1177,
+    "LotAcres": 0,
+    "ParkingCount": 1,
+    "YearBuilt": 1969,
+    "RentFlag": false,
+    "permitsCount": 1,
+    "PropertyUse": "Condo",
+    "estimates": {
+      "estimate": 1086851,
+      "ppsqft": 923.4076,
+      "rentEstimate": 4763,
+      "rentPpsqft": 2.4155,
+      "rentYieldEstimate": 3.9,
+      "date": "2021-05-18"
+    },
+    "StandardStatus": "Pending",
+    "PublicRemarks": "Serene small condo building with community garden. Top floor rear facing corner unit looks out over the Oakland hills from the private balcony off of the living room, making this a great place to escape to for some quiet time. Spacious bedrooms and open floor plan with lots of storage. Great opportunity to live in the Glen View neighborhood.",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01248225",
+        "MemberFullName": "Melody Simpson",
+        "MemberFirstName": "Melody G",
+        "MemberKey": "1069616",
+        "MemberLastName": "Simpson",
+        "OfficeName": "Melody Simpson"
+      }
+    },
+    "PreviousListPriceDiff": 0,
+    "PriceChangeTimestamp": "2020-01-23T15:51:21Z",
+    "displayAddress": "1124 Hollywood Ave #Apt 4",
+    "displayRegion": "Oakland, CA 94602",
+    "location": [-122.2171, 37.81234],
+    "mls": "sfar",
+    "DOM": 43
+  },
+  {
+    "id": "156196636",
+    "media": {
+      "count": 44,
+      "photos": [
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2020/02/03/7d47ee7c-c7df-47db-a2fe-950d7b7d73c3.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2020/02/03/26afce7c-26d9-41c6-8b84-d4caa92e064a.jpg",
+        "https://sfarmedia.rapmls.com/sfarmls/listingpics/bigphoto/2020/02/03/1b8a888c-e125-4b53-b0ed-0710c3b15116.jpg"
+      ]
+    },
+    "address": {
+      "PostalCodeFull": "94109-1192",
+      "StreetDirPrefix": null,
+      "StreetName": "NORTH POINT ST",
+      "FullAddress": "900 NORTH POINT ST # B46E SAN FRANCISCO CA 94109",
+      "StateOrProvince": "CA",
+      "CountyOrParish": "San Francisco",
+      "PostalCode": "94109",
+      "StreetNumber": "900",
+      "City": "SAN FRANCISCO",
+      "UnitNumber": "# B46E",
+      "UnparsedAddress": "900 NORTH POINT ST # B46E"
+    },
+    "topZone": {
+      "name": "Ghirardelli Square",
+      "id": "000722316498",
+      "type": "neighborhood"
+    },
+    "TransactionDate": "2020-02-03T00:00:00Z",
+    "ListDate": "2020-02-03T00:00:00Z",
+    "TophapStatusChangeTimestamp": "2020-02-03T08:00:00Z",
+    "TophapStatus": "Active",
+    "PrivateSaleFlag": false,
+    "TransactionAmount": 0,
+    "TransactionAmountPerSqft": 0,
+    "ListAmount": 100000,
+    "ListAmountPerSqft": null,
+    "Price": 100000,
+    "PricePerSqft": null,
+    "BedsCount": 2,
+    "BathsDecimal": 2,
+    "LivingSqft": 0,
+    "LotAcres": 0,
+    "ParkingCount": 1,
+    "YearBuilt": 0,
+    "RentFlag": false,
+    "permitsCount": 0,
+    "PropertyUse": "Multi-family",
+    "estimates": {
+      "estimate": 635119,
+      "ppsqft": 362.3042,
+      "rentEstimate": 7572,
+      "rentPpsqft": 4.3194,
+      "rentYieldEstimate": 7.38,
+      "date": "2021-05-26"
+    },
+    "StandardStatus": "Active",
+    "PublicRemarks": "Beautiful unit in the iconic Fairmont Heritage Place at Ghiradelli Square, world class property with 5 Star amenities and stunning Bay views.  Enjoy your 1/10 fractional home 35 days per year.  Two spacious bedrooms, open living/dining/kitchen with top quality appliances.  Large terrace facing the Bay with wonderful Bay views. Unit comes furnished and ready to enjoy.  Valet parking, but you can walk to everything in everyone\\'s favorite city, San Francisco!",
+    "Agents": {
+      "List": {
+        "MemberStateLicense": "01200062",
+        "MemberFullName": "Thomas Cooke",
+        "MemberFirstName": "Lowell T",
+        "MemberKey": "404543",
+        "MemberLastName": "Cooke",
+        "OfficeName": "Compass SF"
+      }
+    },
+    "PreviousListPriceDiff": -50000,
+    "PriceChangeTimestamp": "2020-12-19T16:44:43Z",
+    "displayAddress": "900 North Point St # B46E",
+    "displayRegion": "San Francisco, CA 94109",
+    "location": [-122.42293, 37.80586],
+    "mls": "sfar",
+    "DOM": 479
+  }
+]
